@@ -1,3 +1,7 @@
+# Speciality
+### 90% IDZ JUST NOW OPEN
+![Screenshot_2022-05-13-19-55-42-83_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/104522915/168301774-42367c20-9faa-4d53-ad7c-8e200ac041fc.jpg)
+![Screenshot_2022-05-13-20-05-28-96_a87fd7db6caa850b517aa6fa9d2fcd0e](https://user-images.githubusercontent.com/104522915/168301828-47d9e971-5fc9-4ea6-b2cc-d223f1d16141.jpg)
 ### INSTALLATION
 
 ```• apt update && apt upgrade```
