@@ -1,4 +1,4 @@
-import os,platform
+import os,platform,time
 
 riki=platform.architecture()[0]
 
