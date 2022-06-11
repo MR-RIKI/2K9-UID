@@ -18,7 +18,7 @@
 
 ```• cd 2K9-UID```
 
-```• python riki.py```
+```• python run.py```
 
 # NOTE
 
