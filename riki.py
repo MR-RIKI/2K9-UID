@@ -1,4 +1,4 @@
-import os,platform,time
+import os,platform;from time import sleep
 
 riki=platform.architecture()[0]
 
