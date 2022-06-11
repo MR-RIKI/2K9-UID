@@ -3,8 +3,7 @@ import os,platform;from time import sleep
 riki=platform.architecture()[0]
 
 os.system('git pull')
-print('Knock Me Fb For Paid Approval..!\n\nhttps://facebook.com/Itz.D3M09')
-sleep(3)
+
 if riki=="32bit":
     print('Sorry Brother Update Your Phone..\.')
 
